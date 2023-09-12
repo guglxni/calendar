@@ -1,4 +1,4 @@
-#**Calendar Implementation : Swing GUI Based Java Program**
+# **Calendar Implementation : Swing GUI Based Java Program**
 
 A calendar is a system of organizing days for social, religious, commercial, or administrative purposes. It is a tool for keeping track of time and important dates. Calendars can be physical devices, such as paper or electronic calendars, or they can be digital, such as calendars on computers or smartphones.
 
